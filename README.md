@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.npmjs.com/package/bash-my-card">
-    <img src="https://github.com/user-attachments/assets/f673b7ca-eac1-4e33-9dce-fa9f3c5772ac" width="500" alt="Judit's terminal business card screenshot."
+    <img src="https://github.com/user-attachments/assets/f673b7ca-eac1-4e33-9dce-fa9f3c5772ac" width="700" alt="Judit's terminal business card screenshot."
         style="filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, .7));">
   </a>
 </p>
