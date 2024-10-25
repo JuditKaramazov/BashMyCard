@@ -1,0 +1,39 @@
+{
+  "name": "bash-my-card",
+  "type": "module",
+  "version": "1.0.0",
+  "author": "Judit Lázaro Moyano <j.lazaromoyano7@gmail.com>",
+  "description": "Display your credentials on the terminal and be more stylish than Billie Eilish.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JuditKaramazov/BashMyCard"
+  },
+  "scripts": {
+    "dev": "node --watch index.js",
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "bin": {
+    "juditlazaro-vcard": "./index.js"
+  },
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.3.0"
+  },
+  "keywords": [
+    "npm",
+    "npm card",
+    "npx card",
+    "business",
+    "business card",
+    "card",
+    "credentials",
+    "developer card",
+    "links",
+    "node",
+    "script",
+    "terminal",
+    "vcard"
+  ]
+}
